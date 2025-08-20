@@ -1,0 +1,21 @@
+[project]
+name = "ml-08"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "jupyter>=1.1.1",
+    "lazypredict>=0.2.16",
+    "lightgbm>=4.6.0",
+    "matplotlib>=3.10.5",
+    "missing>=5.0",
+    "missingno>=0.5.2",
+    "numpy<2",
+    "optuna>=4.4.0",
+    "pandas>=2.3.1",
+    "scikit-learn>=1.7.1",
+    "scikit-surprise>=1.1.4",
+    "seaborn>=0.13.2",
+    "xgboost>=3.0.3",
+]
